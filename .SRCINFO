@@ -1,0 +1,14 @@
+pkgbase = git-find-md5
+	pkgver = 1.0
+	pkgrel = 1
+	url = https://gist.github.com/mloberg/3750653
+	arch = any
+	license = GPL
+	depends = git
+	source = https://gist.githubusercontent.com/mloberg/3750653/raw/6670f0d67bc6a4682543ab56df59e58e48f56583/gistfile1.sh
+	source = 0001-Suggested-Tweaks.patch
+	md5sums = b02421191c290080688736c07bbeb7fd
+	md5sums = eb5995f51c52b4bf35f2c594129eb2bf
+
+pkgname = git-find-md5
+
