@@ -20,5 +20,9 @@ If you want more than that, I didn't write makepkg, so just:
 $ man makepkg
 ```
 
+# Usage
+You need the md5 of the file you want to look for, and the git repo (full history) locally. Just run git-find-md5 md5sum filename. Here's an example:
+[![asciicast](https://asciinema.org/a/dzLIfOwZovahnpuIqXaZ64vOq.png)](https://asciinema.org/a/dzLIfOwZovahnpuIqXaZ64vOq)
+
 # Contributing / License
 lol
